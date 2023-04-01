@@ -1,0 +1,15 @@
+D:\Users\YAHAIRA\Desktop\CASE AP\bin\Debug\net7.0\CASE AP.exe
+D:\Users\YAHAIRA\Desktop\CASE AP\bin\Debug\net7.0\CASE AP.deps.json
+D:\Users\YAHAIRA\Desktop\CASE AP\bin\Debug\net7.0\CASE AP.runtimeconfig.json
+D:\Users\YAHAIRA\Desktop\CASE AP\bin\Debug\net7.0\CASE AP.dll
+D:\Users\YAHAIRA\Desktop\CASE AP\bin\Debug\net7.0\CASE AP.pdb
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.csproj.AssemblyReference.cache
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.AssemblyInfoInputs.cache
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.AssemblyInfo.cs
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.csproj.CoreCompileInputs.cache
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.dll
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\refint\CASE AP.dll
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.pdb
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\CASE AP.genruntimeconfig.cache
+D:\Users\YAHAIRA\Desktop\CASE AP\obj\Debug\net7.0\ref\CASE AP.dll
